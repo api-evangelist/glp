@@ -42,7 +42,7 @@ modified: '2026-07-19'
 tags:
 - Company
 - Logistics
-- Real-Estate
+- Real Estate
 - Supply Chain
 - Warehousing
 - Investment Management
@@ -53,6 +53,7 @@ tags_raw:
 - Supply Chain
 - Warehousing
 - Investment Management
+- Real-Estate
 apis: []
 maintainers:
 - FN: Kin Lane
